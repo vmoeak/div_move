@@ -1,0 +1,13 @@
+div {
+    border: 1px solid red;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+    border: 1px solid green;
+    box-sizing: border-box;
+}
